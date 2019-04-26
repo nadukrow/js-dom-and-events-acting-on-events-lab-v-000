@@ -1,7 +1,1 @@
-function preventRefreshOnSubmit(){
-    document.querySelector('form').addEventListener('submit', function(event){
-      event.preventDefault()
-    })
-}
-
-preventRefreshOnSubmit()
+http://165.227.81.218:33372
